@@ -4,9 +4,7 @@
 
 介绍视频https://www.bilibili.com/video/BV1Kk4y1C7tL/
 
-
-
-####./PC
+#### ./PC
 
 模型识别效果展示
 
@@ -14,9 +12,7 @@
 
 运行recognition_camera.py可利用摄像头实时识别
 
-
-
-####./云主机
+#### ./云主机
 
 部署服务器所用, 服务器为flask+gunicorn+nginx架构, 系统centos7, 作为小程序上传图片识别的后端
 
