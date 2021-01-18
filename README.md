@@ -8,7 +8,7 @@
 
 模型识别效果展示
 
-![image-20210118153507172](.\pic\image-20210118153507172.png)
+![image](https://github.com/lrioxh/facialExpression/blob/main/pic/image-20210118153507172.png)
 
 运行recognition_camera.py可利用摄像头实时识别
 
