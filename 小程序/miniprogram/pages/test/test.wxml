@@ -1,0 +1,9 @@
+<!--pages/test/test.wxml-->
+  <input class="picker" type="number" bindinput='bindInput' placeholder="0" />
+  <button bindtap="sum">sum</button>
+  <button bindtap="uploadPhoto">upload</button>
+    <view class="picker">
+    +1：{{result}}
+  </view>
+  <!-- <image src="http://127.0.0.1:8080/outpot/2020113008145816.jpg"></image> -->
+  <image src="{{imgData}}"></image>
